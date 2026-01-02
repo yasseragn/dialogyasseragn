@@ -1,0 +1,20 @@
+{
+  "developer_dialog": {
+    "is_active": true,
+    "force_join": true,
+    "image_url": "https://i.ibb.co/dnBSpbv/Picsart-26-01-02-21-53-10-794.png",
+    "dev_name": "Developed By YasserAGN",
+    "title": "مرحباً بك في النسخة المعدلة",
+    "message": "لضمان عمل التطبيق بكفاءة والحصول على التحديثات، يرجى الانضمام لقناتنا الرسمية.",
+    "button_text": "انضمام للقناة (Join Channel)",
+    "telegram_link": "https://t.me/yasseragnoff"
+  },
+  "second_dialog": {
+    "is_active": true,
+    "can_close": true,
+    "title": "تابعنا على يوتيوب",
+    "message": "شروحات حصرية وكواليس التطوير تجدها في قناتنا.",
+    "button_text": "اشتراك (Subscribe)",
+    "link": "https://youtube.com/@aguenanayasser"
+  }
+}
