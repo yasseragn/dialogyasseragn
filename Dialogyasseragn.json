@@ -10,7 +10,7 @@
     "telegram_link": "https://t.me/yasseragnoff"
   },
   "second_dialog": {
-    "is_active": true,
+    "is_active": false,
     "can_close": true,
     "title": "تابعنا على يوتيوب",
     "message": "شروحات حصرية وكواليس التطوير تجدها في قناتنا.",
